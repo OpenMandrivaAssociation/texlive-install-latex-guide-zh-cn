@@ -1,6 +1,6 @@
 Name:		texlive-install-latex-guide-zh-cn
-Version:	64560
-Release:	2
+Version:	69014
+Release:	1
 Summary:	A short introduction to LaTeX installation written in Chinese
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/install-latex-guide-zh-cn
