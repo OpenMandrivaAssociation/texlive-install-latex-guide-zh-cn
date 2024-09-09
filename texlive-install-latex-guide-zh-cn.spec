@@ -1,5 +1,5 @@
 Name:		texlive-install-latex-guide-zh-cn
-Version:	69264
+Version:	72158
 Release:	1
 Summary:	A short introduction to LaTeX installation written in Chinese
 Group:		Publishing
