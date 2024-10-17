@@ -3,7 +3,7 @@ Version:	72158
 Release:	1
 Summary:	A short introduction to LaTeX installation written in Chinese
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/install-latex-guide-zh-cn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/install-latex-guide-zh-cn
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/install-latex-guide-zh-cn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/install-latex-guide-zh-cn.doc.r%{version}.tar.xz
